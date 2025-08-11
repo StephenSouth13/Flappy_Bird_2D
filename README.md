@@ -17,7 +17,7 @@ Người chơi điều khiển chú chim nhỏ vượt qua các cột ống đ�
 ## 🧑‍💻 Thông tin sinh viên thực hiện
 
 - **Họ tên:** Quách Thành Long  
-- **Email:** ngqt.124010124034@vtc.edu.vn  
+- **Email:** longqt.124010124034@vtc.edu.vn 
 - **Lớp học phần:** K24GD-03-2D Game Engine  
 - **Giờ học:** 8h30 – 11h30  
 - **Giảng viên hướng dẫn:** Thầy Nguyễn Trung Hiếu  
